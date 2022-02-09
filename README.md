@@ -9,7 +9,7 @@ Generate waves art for an image.
 ```python
 python waves_art.py --image_path tests/test1.jpg --patch_size 15
 ```
-The `patch_size` may changed to obtain better results. Generally, values of 10, 15 or 20 work better. Set lower for higher res images and vice versa.
+The `patch_size` may be changed to obtain better results. Generally, values of 10, 15 or 20 work better. Set lower for higher res images and vice versa.
 
 ### Examples:
 #### Muhammad Ali Jinnah
